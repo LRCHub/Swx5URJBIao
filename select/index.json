@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リコンティニュー",
+  "base_artist": "レトロリロン",
+  "createdAt": "2026-03-07T14:52:40.699557Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リコンティニュー",
+      "artist": "レトロリロン",
+      "has_synced": false,
+      "path": "select/pl_01_リコンティニュー_レトロリロン.txt"
+    }
+  ]
+}
